@@ -12,7 +12,7 @@ class Boilerplate extends Component {
     render() {
         return (
             <div>
-
+                
             </div>
         )
     }
